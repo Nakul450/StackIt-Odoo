@@ -1,3 +1,4 @@
+Link to the video-https://drive.google.com/file/d/1oSRApNd-RLGj59ULeK24l-W3CPLRmqT_/view?usp=drive_link
 # StackIt - Q&A Platform
 
 A modern Q&A platform built with React, TypeScript, Node.js, and SQLite.
